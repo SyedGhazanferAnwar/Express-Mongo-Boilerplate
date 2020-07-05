@@ -1,0 +1,28 @@
+{
+  "name": "express-mongo-boilerplate",
+  "version": "1.0.0",
+  "description": "Express and Mongoose Boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedGhazanferAnwar/Express-Mongo-Boilerplate.git"
+  },
+  "keywords": [
+    "Mongoose",
+    "Express",
+    "Boilerplate"
+  ],
+  "author": "Syed Ghazanfer Anwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedGhazanferAnwar/Express-Mongo-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/SyedGhazanferAnwar/Express-Mongo-Boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21"
+  }
+}
